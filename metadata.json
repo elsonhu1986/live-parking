@@ -1,0 +1,6 @@
+{
+  "name": "ParkWhere Live",
+  "description": "Real-time Singapore carpark vacancy, dynamic ERP rates, EV charging, and live traffic telemetry.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
